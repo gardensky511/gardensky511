@@ -1,4 +1,21 @@
-### Hi there 👋
+<!--
+**luvmini511/luvmini511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=30336b&height=100&section=header&text=LEE%20Jeongmin&animation=blink&fontSize=40&fontColor=f9ca24)
+
+## Hi there ・ 안녕하세요 ・ こんにちは 👋
 
 <!--
 **luvmini511/luvmini511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +31,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I AM
+![](https://img.shields.io/badge/From%20Korea-30336b?style=for-the-badge)
+![](https://img.shields.io/badge/Beginner%20FrontEnd-eb4d4b?style=for-the-badge)
+![](https://img.shields.io/badge/Working%20in%20japan-6ab04c?style=for-the-badge)
+
+### INTERESTED IN
+![](https://img.shields.io/badge/React-22a6b3?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Javascript-f9ca24?style=for-the-badge&logo=Javascript&logoColor=black)
+![](https://img.shields.io/badge/Typescript-1e3799?style=for-the-badge&logo=Typescript&logoColor=white)
