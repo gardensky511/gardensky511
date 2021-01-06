@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=30336b&height=100&section=header&text=LEE%20Jeongmin&animation=blink&fontSize=40&fontColor=f9ca24)
-
-## Hi there ・ 안녕하세요 ・ こんにちは 👋
+### Hi there ・ 안녕하세요 ・ こんにちは 👋
 
 <!--
 **luvmini511/luvmini511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
