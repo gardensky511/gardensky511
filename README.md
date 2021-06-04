@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Working%20in%20japan-6ab04c?style=for-the-badge)
 
 ### INTERESTED IN
-![](https://img.shields.io/badge/React-22a6b3?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/CSS-1B9CFC?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-f9ca24?style=for-the-badge&logo=Javascript&logoColor=black)
+![](https://img.shields.io/badge/React-22a6b3?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/React_Native-22a6b3?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Typescript-1e3799?style=for-the-badge&logo=Typescript&logoColor=white)
+![](https://img.shields.io/badge/Redux_Toolkit-9980FA?style=for-the-badge&logo=Redux&logoColor=white)
