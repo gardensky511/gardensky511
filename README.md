@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/Redux_Toolkit-9980FA?style=flat-square&logo=Redux&logoColor=white)
 
 ### 🖋 Writings
-<a href="https://zenn.dev/luvmini511" target="_blank"><img src="https://img.shields.io/badge/Zenn-3ea8ff?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="https://zenn.dev/luvmini511" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zenn-3ea8ff?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 
 ### 🤝 Contact
-<a href="mailto:luvmini511@gmail.com" target="_blank"><img src="https://img.shields.io/badge/luvmini511@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:luvmini511@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/luvmini511@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
