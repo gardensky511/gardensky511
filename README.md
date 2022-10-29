@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👋%20안녕하세요%20・%20こんにちは%20・%20Hi%20there&fontSize=30&fontAlignY=38)
 
 <h2>:cupid: Greetings</h2>
-
-&ensp;
+&thinsp;
   <p>
     도쿄 IT기업에서 일하고 있는 한국인 개발자입니다.
    <br>웹 개발도 하고 크로스플랫폼 어플리케이션 개발도 하고 그 외에도 이것저것 하고있어요
@@ -19,11 +18,11 @@
     I'm a Korean developer working for an IT company in Tokyo.
     <br>I do web development, cross-platform app development, and many other things.
   </p>
-&ensp;
+&thinsp;
 
 <h2>:books: Skills</h2>
-
-&ensp;
+  
+&thinsp;
 
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -36,19 +35,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvmini511&layout=compact)](https://github.com/luvmini511/github-readme-stats)
 
-&ensp;
+&thinsp;
 
 <h2>:pencil2: Writings</h2>
 
-&ensp;
+&thinsp;
 
-<a href="https://zenn.dev/luvmini511" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zenn-3ea8ff?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="https://zenn.dev/luvmini511" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/みんちゃんの記事一覧-3ea8ff?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
 
-&ensp;
+&thinsp;
 
 <h2>:raised_hands: Contact</h2>
 
-&ensp;
+&thinsp;
 
 <a href="mailto:gardensky511@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gardensky511@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
