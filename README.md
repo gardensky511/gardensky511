@@ -5,23 +5,23 @@
 <h2>:cupid: Greetings</h2>
 &thinsp;
   <p>
-    도쿄 IT기업에서 일하고 있는 한국인 개발자입니다.
-   <br>웹 개발도 하고 크로스플랫폼 어플리케이션 개발도 하고 그 외에도 이것저것 하고있어요
+    안녕하세요! 제 깃허브에 와주셔서 정말 감사합니다.
+    <br>저는 정민이구요, 도쿄에서 일하고 있는 한국인 개발자입니다.
   </p>
 
   <p>
-    東京のIT企業で働いてる韓国人エンジニアです。
-    <br>ウェブ開発したりクロスプラットフォームアプリケの開発をしたり、他にも色々やってます。
+    こんにちは！私のGitHubに来てくれて本当にありがとうございます。
+    <br>私はじょんみんと申します。東京で働いてる韓国人エンジニアです。
   </p>
 
   <p>
-    I'm a Korean developer working for an IT company in Tokyo.
-    <br>I do web development, cross-platform app development, and many other things.
+    Hello! Thank you so much for coming my Github.
+    <br>I'm Jeongmin, and I'm a Korean developer working in Tokyo.
   </p>
 &thinsp;
 
 <h2>:books: Skills</h2>
-  
+ 
 &thinsp;
 
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,6 +44,12 @@
 <a href="https://zenn.dev/luvmini511" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/みんちゃんの記事一覧-3ea8ff?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
 
 &thinsp;
+  
+<h2>:seedling: LeetCode</h2>
+  
+&thinsp;
+  
+[![Leetcode Stats](https://leetcard.jacoblin.cool/gardensky511?ext=activity)](https://leetcode.com/gardensky511/)
 
 <h2>:raised_hands: Contact</h2>
 
