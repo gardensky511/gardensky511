@@ -27,13 +27,14 @@
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-<br>![](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+<br>![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvmini511&layout=compact)](https://github.com/luvmini511/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardensky511&layout=compact)](https://github.com/luvmini511/github-readme-stats)
 
 &thinsp;
 
